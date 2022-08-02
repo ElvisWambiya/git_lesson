@@ -1,0 +1,4 @@
+To make changes to a repository
+Create a readme file
+Link to the main repository
+Pull from a main source
